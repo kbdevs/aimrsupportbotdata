@@ -25,6 +25,8 @@
       "is it safe": "virus",
       "is this a virus": "virus",
       "ud this aimbot": "ud",
+      "is it detected": "ud",
+      "is AIMr detected": "ud",
       "game first or": "launchorder",
       "i need help": "help",
       "help me": "help",
