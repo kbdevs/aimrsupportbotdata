@@ -25,6 +25,8 @@
       "is it safe": "virus",
       "is this a virus": "virus",
       "it's a virus": "virus",
+      "its a virus": "virus",
+      "it is a virus": "virus",
       "ud this aimbot": "ud",
       "is it detected": "ud",
       "is AIMr detected": "ud",
