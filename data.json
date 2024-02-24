@@ -27,11 +27,19 @@
       "ud this aimbot": "ud",
       "game first or": "launchorder",
       "i need help": "help",
-      "help me": "help"
+      "help me": "help",
+      "game support?": "games",
+      "what games does it work with": "games",
+      "what games does it support": "games",
+      "what games does it work on": "games",
+      "what games does AIMr work on": "games",
+      "what games does AIMr support": "games",
+      "what games does AIMr work with": "games"
     }
   ],
   "replies": [
     {
+      "games": "AIMr works on all games with human models (besides valorant)",
       "ud": "AIMr is undetected in every game.",
       "cv2": "Please follow this guide: https://discord.com/channels/1191468194490241075/1191879898730602576",
       "key": "Go to this website https://is.gd/a8yJ7f.",
