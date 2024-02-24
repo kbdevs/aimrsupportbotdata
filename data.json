@@ -1,5 +1,5 @@
 {
-    "phrases": {[
+    "phrases": [{
         "cv2 not found": "cv2",
         "get a key": "key",
         "find a key": "key",
@@ -24,7 +24,7 @@
         "is it safe": "virus",
         "is this a virus": "virus",
         "ud this aimbot": "ud"
-        ]},
+        }],
     "replies": [{
         "ud": "AIMr is undetected in every game.",
         "cv2": "Please follow this guide: https://discord.com/channels/1191468194490241075/1191879898730602576",
