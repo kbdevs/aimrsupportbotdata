@@ -1,39 +1,43 @@
 {
-    "phrases": [{
-        "cv2 not found": "cv2",
-        "get a key": "key",
-        "find a key": "key",
-        "how do i install": "install",
-        "work on fortnite": "fortnite",
-        "this works fortnite?": "fortnite",
-        "work in fortnite": "fortnite",
-        "work in valorant": "valorant",
-        "work on valorant": "valorant",
-        "detected in valorant": "valorant",
-        "very slow on cpu": "cuda",
-        "how to use cuda": "cuda",
-        "how do i use cuda": "cuda",
-        "its crashing": "crash",
-        "it crashed": "crash",
-        "whats cuda?": "cuda",
-        "how do you use this on fn": "fortnite",
-        "how do you use this on fortnite": "fortnite",
-        "aimr good for fn": "fortnite",
-        "aimr good for fortnite": "fortnite",
-        "is it a virus": "virus",
-        "is it safe": "virus",
-        "is this a virus": "virus",
-        "ud this aimbot": "ud"
-        }],
-    "replies": [{
-        "ud": "AIMr is undetected in every game.",
-        "cv2": "Please follow this guide: https://discord.com/channels/1191468194490241075/1191879898730602576",
-        "key": "Go to this website https://is.gd/a8yJ7f.",
-        "install": "Please follow this guide: https://discord.com/channels/1191468194490241075/1200846743475064882",
-        "fortnite": "AIMr works on fortnite while using left block.",
-        "valorant": "AIMr does not currently work for valorant due to their anti-cheat.",
-        "cuda": "Please follow this guide: https://discord.com/channels/1191468194490241075/1191944840427094106",
-        "crash": "Delete localv.json and use or download this https://discord.com/channels/1191468194490241075/1200846743475064882",
-        "virus": "AIMr is not a virus. It is a safe program, we get some false detections because the launcher has to download many things to install AIMr."
-    }]
+  "phrases": [
+    {
+      "cv2 not found": "cv2",
+      "get a key": "key",
+      "find a key": "key",
+      "how do i install": "install",
+      "work on fortnite": "fortnite",
+      "this works fortnite?": "fortnite",
+      "work in fortnite": "fortnite",
+      "work in valorant": "valorant",
+      "work on valorant": "valorant",
+      "detected in valorant": "valorant",
+      "very slow on cpu": "cuda",
+      "how to use cuda": "cuda",
+      "how do i use cuda": "cuda",
+      "its crashing": "crash",
+      "it crashed": "crash",
+      "whats cuda?": "cuda",
+      "how do you use this on fn": "fortnite",
+      "how do you use this on fortnite": "fortnite",
+      "aimr good for fn": "fortnite",
+      "aimr good for fortnite": "fortnite",
+      "is it a virus": "virus",
+      "is it safe": "virus",
+      "is this a virus": "virus",
+      "ud this aimbot": "ud"
+    }
+  ],
+  "replies": [
+    {
+      "ud": "AIMr is undetected in every game.",
+      "cv2": "Please follow this guide: https://discord.com/channels/1191468194490241075/1191879898730602576",
+      "key": "Go to this website https://is.gd/a8yJ7f.",
+      "install": "Please follow this guide: https://discord.com/channels/1191468194490241075/1200846743475064882",
+      "fortnite": "AIMr works on fortnite while using left block.",
+      "valorant": "AIMr does not currently work for valorant due to their anti-cheat.",
+      "cuda": "Please follow this guide: https://discord.com/channels/1191468194490241075/1191944840427094106",
+      "crash": "Delete localv.json and use or download this https://discord.com/channels/1191468194490241075/1200846743475064882",
+      "virus": "AIMr is not a virus. It is a safe program, we get some false detections because the launcher has to download many things to install AIMr."
+    }
+  ]
 }
