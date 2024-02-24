@@ -24,7 +24,8 @@
       "is it a virus": "virus",
       "is it safe": "virus",
       "is this a virus": "virus",
-      "ud this aimbot": "ud"
+      "ud this aimbot": "ud",
+      "game first or": "launchorder"
     }
   ],
   "replies": [
@@ -37,7 +38,8 @@
       "valorant": "AIMr does not currently work for valorant due to their anti-cheat.",
       "cuda": "Please follow this guide: https://discord.com/channels/1191468194490241075/1191944840427094106",
       "crash": "Delete localv.json and use or download this https://discord.com/channels/1191468194490241075/1200846743475064882",
-      "virus": "AIMr is not a virus. It is a safe program, we get some false detections because the launcher has to download many things to install AIMr."
+      "virus": "AIMr is not a virus. It is a safe program, we get some false detections because the launcher has to download many things to install AIMr.",
+      "launchorder": "It does not matter if you open the game or AIMr first."
     }
   ]
 }
