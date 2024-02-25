@@ -2,6 +2,7 @@
   "phrases": [
     {
       "cv2 not found": "cv2",
+      "where key": "key",
       "get a key": "key",
       "find a key": "key",
       "how do i install": "install",
