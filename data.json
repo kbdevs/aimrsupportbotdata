@@ -64,6 +64,7 @@
         "crash": "Delete localv.json and use or download this https://discord.com/channels/1191468194490241075/1200846743475064882",
         "virus": "AIMr is not a virus. It is a safe program, we get some false detections because the launcher has to download many things to install AIMr.",
         "launchorder": "It does not matter if you open the game or AIMr first.",
-        "help": "Please go to https://discord.com/channels/1191468194490241075/1191470814000857179 and make a ticket"
+        "help": "Please go to https://discord.com/channels/1191468194490241075/1191470814000857179 and make a ticket",
+        "sleepy": "he does indeed"
     }
 }
