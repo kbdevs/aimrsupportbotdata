@@ -1,6 +1,5 @@
 {
-    "phrases": [
-        {
+    "phrases": {
             "cv2 not found": "cv2",
             "where key": "key",
             "get a key": "key",
@@ -52,11 +51,7 @@
             "how do i get hacks": "install",
             "how can i enable cuda": "cuda"
         },
-        {
-            "new phrase": "new_value"
-        }
-    ],
-    "replies": [
+    "replies": 
         {
             "games": "AIMr works on all games with human models (besides valorant)",
             "ud": "AIMr is undetected in every game.",
@@ -71,5 +66,4 @@
             "launchorder": "It does not matter if you open the game or AIMr first.",
             "help": "Please go to https://discord.com/channels/1191468194490241075/1191470814000857179 and make a ticket"
         }
-    ]
 }
