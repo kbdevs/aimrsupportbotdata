@@ -50,7 +50,8 @@
         "how download": "install",
         "how do i get hacks": "install",
         "how can i enable cuda": "cuda",
-        "sleepsucks": "sleepy"
+        "sleepsucks": "sleepy",
+        "is water wet": "water"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
