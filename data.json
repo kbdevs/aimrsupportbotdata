@@ -63,7 +63,8 @@
         "is this virus": "virus",
         "is it virus": "virus",
         "virus??": "virus",
-        "virus?": "virus"
+        "virus?": "virus",
+        "is kb cool": "kb"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
