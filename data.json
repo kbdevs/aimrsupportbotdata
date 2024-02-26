@@ -57,7 +57,8 @@
         "why doesn't it work": "help",
         "someone help": "help",
         "bad marshal data": "badmarshal",
-        "aimr work fortnite?": "games"
+        "aimr work fortnite?": "games",
+        "detected or no cod": "ud"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
