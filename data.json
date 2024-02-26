@@ -55,7 +55,8 @@
         "is hells hot": "hells",
         "help pls": "help",
         "why doesn't it work": "help",
-        "someone help": "help"
+        "someone help": "help",
+        "bad marshal data": "badmarshal"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
