@@ -53,7 +53,8 @@
         "sleepsucks": "sleepy",
         "is water wet": "water",
         "is hells hot": "hells",
-        "help pls": "help"
+        "help pls": "help",
+        "why doesn't it work": "help"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
