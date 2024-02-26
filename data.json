@@ -62,7 +62,8 @@
         "is officialepstein hot": "island",
         "is this virus": "virus",
         "is it virus": "virus",
-        "virus??": "virus"
+        "virus??": "virus",
+        "virus?": "virus"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
