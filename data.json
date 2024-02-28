@@ -67,7 +67,8 @@
         "is kb cool": "kb",
         "AIMr is not activated": "key",
         "where can i download": "install",
-        "how to enable cuda": "cuda"
+        "how to enable cuda": "cuda",
+        "does it work for valorant": "valorant"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
