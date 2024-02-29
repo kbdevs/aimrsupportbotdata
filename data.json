@@ -71,7 +71,8 @@
         "does it work for valorant": "valorant",
         "where is the link for the download": "install",
         "open the launcher after going in the game or before": "launchorder",
-        "how can i download a hack": "install"
+        "how can i download a hack": "install",
+        "my python isnt working": "python"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
