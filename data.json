@@ -73,7 +73,8 @@
         "open the launcher after going in the game or before": "launchorder",
         "how can i download a hack": "install",
         "my python isnt working": "python",
-        "bro how to get yo key": "key"
+        "bro how to get yo key": "key",
+        "Is it undetected": "ud"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
