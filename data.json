@@ -75,7 +75,8 @@
         "my python isnt working": "python",
         "bro how to get yo key": "key",
         "Is it undetected": "ud",
-        "valorant": "valorant"
+        "valorant": "valorant",
+        "val": "valorant"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
