@@ -77,7 +77,8 @@
         "Is it undetected": "ud",
         "valorant": "valorant",
         "val": "valorant",
-        "need help": "help"
+        "need help": "help",
+        "launch loader before game right": "launchorder"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
