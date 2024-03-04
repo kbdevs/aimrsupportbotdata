@@ -76,7 +76,8 @@
         "bro how to get yo key": "key",
         "Is it undetected": "ud",
         "valorant": "valorant",
-        "val": "valorant"
+        "val": "valorant",
+        "need help": "help"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
