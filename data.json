@@ -78,7 +78,8 @@
         "valorant": "valorant",
         "val": "valorant",
         "need help": "help",
-        "launch loader before game right": "launchorder"
+        "launch loader before game right": "launchorder",
+        "enable the cuda": "cuda"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
