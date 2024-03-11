@@ -81,7 +81,8 @@
         "launch loader before game right": "launchorder",
         "enable the cuda": "cuda",
         "where do i download": "install",
-        "what is a cuda": "cuda"
+        "what is a cuda": "cuda",
+        "is this malware": "virus"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
