@@ -80,7 +80,8 @@
         "need help": "help",
         "launch loader before game right": "launchorder",
         "enable the cuda": "cuda",
-        "where do i download": "install"
+        "where do i download": "install",
+        "what is a cuda": "cuda"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
