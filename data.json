@@ -82,7 +82,8 @@
         "enable the cuda": "cuda",
         "where do i download": "install",
         "what is a cuda": "cuda",
-        "is this malware": "virus"
+        "is this malware": "virus",
+        "how to get cuda": "cuda"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
