@@ -84,7 +84,8 @@
         "what is a cuda": "cuda",
         "is this malware": "virus",
         "how to get cuda": "cuda",
-        "how do i get support": "help"
+        "how do i get support": "help",
+        "how to set up the aimr": "install"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
