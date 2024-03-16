@@ -87,7 +87,8 @@
         "how do i get support": "help",
         "how to set up the aimr": "install",
         "how to enable aimr": "install",
-        "whats download ready": "install"
+        "whats download ready": "install",
+        "how do get the key": "key"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
