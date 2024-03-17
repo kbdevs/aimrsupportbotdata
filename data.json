@@ -89,7 +89,8 @@
         "how to enable aimr": "install",
         "whats download ready": "install",
         "how do get the key": "key",
-        "testingmaskedlink": "testingmaskedlink"
+        "testingmaskedlink": "testingmaskedlink",
+        "do you get banned": "ud"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
