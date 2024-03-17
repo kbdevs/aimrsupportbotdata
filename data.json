@@ -93,7 +93,8 @@
         "what game does this work": "games",
         "i cant get key": "key",
         "is this free": "free",
-        "should i open the app with fortnite or the app first": "launchorder"
+        "should i open the app with fortnite or the app first": "launchorder",
+        "download?": "install"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
