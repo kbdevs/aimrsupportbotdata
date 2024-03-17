@@ -90,7 +90,8 @@
         "whats download ready": "install",
         "how do get the key": "key",
         "testingmaskedlink": "testingmaskedlink",
-        "do you get banned": "ud"
+        "do you get banned": "ud",
+        "what game does this work": "games"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
