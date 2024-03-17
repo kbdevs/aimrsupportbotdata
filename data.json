@@ -91,7 +91,8 @@
         "testingmaskedlink": "testingmaskedlink",
         "do you get banned": "ud",
         "what game does this work": "games",
-        "i cant get key": "key"
+        "i cant get key": "key",
+        "is this free": "free"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
