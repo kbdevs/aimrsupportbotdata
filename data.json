@@ -95,7 +95,8 @@
         "is this free": "free",
         "should i open the app with fortnite or the app first": "launchorder",
         "download?": "install",
-        "send me almr download": "install"
+        "send me almr download": "install",
+        "can someone send me the free aimbot file": "install"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
