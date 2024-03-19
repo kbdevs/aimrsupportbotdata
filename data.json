@@ -98,7 +98,8 @@
         "send me almr download": "install",
         "can someone send me the free aimbot file": "install",
         "anyone have a autoinstaller for cuda": "cuda",
-        "CUDA disabled": "cuda"
+        "CUDA disabled": "cuda",
+        "where is the download": "install"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
