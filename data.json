@@ -100,7 +100,8 @@
         "DISABLED - Slower": "cuda",
         "how to run a cheat": "install",
         "how to dowlaod": "install",
-        "i want key please": "key"
+        "i want key please": "key",
+        "where is the key": "key"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
