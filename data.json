@@ -101,7 +101,8 @@
         "how to dowlaod": "install",
         "i want key please": "key",
         "where is the key": "key",
-        "what is the key": "key"
+        "what is the key": "key",
+        "whats the key": "key"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
