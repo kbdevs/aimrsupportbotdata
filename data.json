@@ -104,7 +104,8 @@
         "what is the key": "key",
         "whats the key": "key",
         "i want key": "key",
-        "where is key": "key"
+        "where is key": "key",
+        "is not recognized as an internal": "python"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
