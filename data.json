@@ -112,7 +112,8 @@
         "how get key": "key",
         "how do i get the key": "key",
         "file is deleted": "lvbypass",
-        "file.io is deleted": "lvbypass"
+        "file.io is deleted": "lvbypass",
+        "how can we get key": "key"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
