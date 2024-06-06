@@ -117,7 +117,8 @@
         "where can i get the key": "key",
         "how can I have a key": "key",
         "is it detectable": "ud",
-        "how can i get the key": "key"
+        "how can i get the key": "key",
+        "how do we get the key": "key"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
