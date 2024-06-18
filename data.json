@@ -119,7 +119,8 @@
         "is it detectable": "ud",
         "how can i get the key": "key",
         "how do we get the key": "key",
-        "'exit' is not defined": "exitdefine"
+        "'exit' is not defined": "exitdefine",
+        "an error occurred": "erroroccur"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
