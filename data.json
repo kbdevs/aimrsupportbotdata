@@ -121,7 +121,8 @@
         "how do we get the key": "key",
         "'exit' is not defined": "exitdefine",
         "an error occurred": "erroroccur",
-        "where do i get a key": "key"
+        "where do i get a key": "key",
+        "can i get help": "help"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
