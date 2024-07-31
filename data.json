@@ -124,7 +124,8 @@
         "where do i get a key": "key",
         "can i get help": "help",
         "how to i get the key": "key",
-        "i need a key": "key"
+        "i need a key": "key",
+        "how do i get key": "key"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
