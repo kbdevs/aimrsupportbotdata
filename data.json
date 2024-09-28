@@ -126,7 +126,19 @@
         "how to i get the key": "key",
         "i need a key": "key",
         "how do i get key": "key",
-        "whats a good config": "docuda"
+        "whats a good config": "docuda",
+        "can you suggest a good config": "docuda",
+        "what config would you recommend": "docuda",
+        "any good config suggestions": "docuda",
+        "recommend a good config": "docuda",
+        "what's the best config": "docuda",
+        "good config recommendations": "docuda",
+        "suggest a good configuration": "docuda",
+        "what's an ideal config": "docuda",
+        "what's a good configuration": "docuda",
+        "good config?": "docuda",
+        "what are good configs": "docuda",
+        "aims at the air": "docuda"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
