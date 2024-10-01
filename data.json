@@ -141,7 +141,8 @@
         "aims at the air": "docuda",
         "going in different directions": "docuda",
         "give me a config": "docuda",
-        "best config for": "docuda"
+        "best config for": "docuda",
+        "help me config": "docuda"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
