@@ -142,7 +142,8 @@
         "going in different directions": "docuda",
         "give me a config": "docuda",
         "best config for": "docuda",
-        "help me config": "docuda"
+        "help me config": "docuda",
+        "good settings for": "docuda"
     },
     "replies": {
         "games": "AIMr works on all games with human models (besides valorant)",
