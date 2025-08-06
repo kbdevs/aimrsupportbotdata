@@ -110,6 +110,7 @@
     "someone help": "help",
     "why doesn't it work": "help",
     "how do i get support": "help",
+    "doesnt work": "help",
 
     "what game does this work": "games",
     "aimr work fortnite?": "games",
@@ -121,8 +122,6 @@
     "what games does AIMr work on": "games",
     "what games does AIMr work with": "games",
 
-    "is kb cool": "kb",
-    "is officialepstein hot": "island",
 
     "'exit' is not defined": "exitdefine",
     "an error occurred": "erroroccur",
