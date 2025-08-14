@@ -159,7 +159,9 @@
     "help me config": "docuda",
     "free version is sucks": "docuda",
     "whats a config for free": "docuda",
-    "error": "guides"
+    "error": "guides",
+    "close": "guides",
+    "closing": "guides"
   },
 
   "replies": {
